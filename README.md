@@ -16,7 +16,7 @@
 
 ![Ordenamiento](https://user-images.githubusercontent.com/66188523/102284027-1d0b7100-3ef9-11eb-8304-7b611688694f.png)
 
-#El archivo se crea en la \bin\Debug del proyecto
+#El archivo se crea en la carpeta \bin\Debug del proyecto
 
  
 ![Carppeta bin-Debug](https://user-images.githubusercontent.com/66188523/102284286-8a1f0680-3ef9-11eb-8519-a88699a6badf.png)
