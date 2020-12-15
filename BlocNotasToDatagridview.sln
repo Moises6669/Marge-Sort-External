@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moises_Masis_Merge_Sort", "BlocNotasToDatagridview\Moises_Masis_Merge_Sort.csproj", "{5D1C7C8D-D41C-4A8F-A6AC-76557D21DE76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D1C7C8D-D41C-4A8F-A6AC-76557D21DE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1C7C8D-D41C-4A8F-A6AC-76557D21DE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1C7C8D-D41C-4A8F-A6AC-76557D21DE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1C7C8D-D41C-4A8F-A6AC-76557D21DE76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D7530C7-0F8A-4BFB-810B-992E1499AF23}
+	EndGlobalSection
+EndGlobal

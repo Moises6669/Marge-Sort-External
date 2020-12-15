@@ -1,0 +1,10 @@
+C:\Users\moise\Downloads\Compressed\Moises_Masis_Merge_Sort\BlocNotasToDatagridview\bin\Debug\BlocNotasToDatagridview.exe.config
+C:\Users\moise\Downloads\Compressed\Moises_Masis_Merge_Sort\BlocNotasToDatagridview\bin\Debug\BlocNotasToDatagridview.exe
+C:\Users\moise\Downloads\Compressed\Moises_Masis_Merge_Sort\BlocNotasToDatagridview\bin\Debug\BlocNotasToDatagridview.pdb
+C:\Users\moise\Downloads\Compressed\Moises_Masis_Merge_Sort\BlocNotasToDatagridview\obj\Debug\Moises_Masis_Merge_Sort.csprojAssemblyReference.cache
+C:\Users\moise\Downloads\Compressed\Moises_Masis_Merge_Sort\BlocNotasToDatagridview\obj\Debug\Moises_Masis_Merge_Sort.Form1.resources
+C:\Users\moise\Downloads\Compressed\Moises_Masis_Merge_Sort\BlocNotasToDatagridview\obj\Debug\BlocNotasToDatagridview.Properties.Resources.resources
+C:\Users\moise\Downloads\Compressed\Moises_Masis_Merge_Sort\BlocNotasToDatagridview\obj\Debug\Moises_Masis_Merge_Sort.csproj.GenerateResource.cache
+C:\Users\moise\Downloads\Compressed\Moises_Masis_Merge_Sort\BlocNotasToDatagridview\obj\Debug\Moises_Masis_Merge_Sort.csproj.CoreCompileInputs.cache
+C:\Users\moise\Downloads\Compressed\Moises_Masis_Merge_Sort\BlocNotasToDatagridview\obj\Debug\BlocNotasToDatagridview.exe
+C:\Users\moise\Downloads\Compressed\Moises_Masis_Merge_Sort\BlocNotasToDatagridview\obj\Debug\BlocNotasToDatagridview.pdb
